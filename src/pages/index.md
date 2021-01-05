@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Build Your Dream Venture.
-    subtitle: Optional hero section subtitle
+    subtitle: Ready to build and scale your business?
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
