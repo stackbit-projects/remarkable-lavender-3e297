@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Trusted by
+    title: Partners
     subtitle: Grid Section Example
     align: center
     grid_items:
