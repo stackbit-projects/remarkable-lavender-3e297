@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Build Your Dream Venture.
     subtitle: Ready to build and scale your business?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Our Markeplace has dozens of B2B's ready to help build your business.
     actions:
       - label: Try Free
         url: /pricing
