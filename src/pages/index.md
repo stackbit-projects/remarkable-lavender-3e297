@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build Your Dream Business
+    title: Build Your Dream Venture
     subtitle: Ready to build and scale your business?
     content: |
       Our Markeplace has dozens of B2B's ready to help build your business.
