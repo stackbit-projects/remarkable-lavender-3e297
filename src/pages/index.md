@@ -7,7 +7,7 @@ sections:
     content: |
       Our Markeplace has dozens of B2B's ready to help build your business.
     actions:
-      - label: Try Free
+      - label: Start Free
         url: /pricing
         style: primary
       - label: Learn More
