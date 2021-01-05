@@ -5,7 +5,7 @@ sections:
     title: Build Your Dream Venture.
     subtitle: Ready to build and scale your business?
     content: |
-      Our Markeplace has dozens of B2B's ready to help build your business.
+      Our Markeplace has dozens of B2B's ready to build your business.
     actions:
       - label: Try Free
         url: /pricing
