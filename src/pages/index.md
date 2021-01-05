@@ -2,13 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    title: Build Your Dream Venture
+    subtitle: Ready to build and scale your business?
+    content: |
+      Our Markeplace has dozens of B2B's ready to help build your business.
     actions:
-      - label: Try Free
+      - label: Start Free
         url: /pricing
         style: primary
       - label: Learn More
@@ -22,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Partners
     subtitle: Grid Section Example
     align: center
     grid_items:

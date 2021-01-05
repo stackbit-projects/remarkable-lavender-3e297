@@ -7,7 +7,7 @@
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/default-monochrome (1).png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -50,14 +50,14 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Build, Grow, and Scale your business here. \n👉 **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
+        "logo": "images/terrific-europa.png",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
