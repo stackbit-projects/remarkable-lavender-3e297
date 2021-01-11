@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/design1.png
+    image: images/design2.png
     media_position: left
     media_width: fifty
     align: left
