@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/famous-velociraptor.png
+    image: images/design4.png
     media_position: left
     media_width: fifty
     align: left
